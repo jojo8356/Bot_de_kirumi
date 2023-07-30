@@ -31,16 +31,16 @@ TOKEN=YOUR_DISCORD_BOT_TOKEN
 3. Interact with the bot using the predefined commands explained below.
 
 ## Commands
-**/depart**: Starts a new adventure for the user, granting them random roles (beyond their control) like "boat" or "money."
-**/haki**: Assigns the user random haki roles ("haki de l'observation" or "haki de l'armement").
-**/sabre**: Gives the user a "sabre" role. The user might receive it or not randomly.
-**/fruit**: Grants the user a "fruit" role. The user may or may not receive it randomly.
-**/typefruit**: Reveals the type of the user's "fruit" role among "logia," "paramecia," or "zoan." The bot also shares a GIF based on the type.
-**/zoan**: If the user has a "zoan" type "fruit," this command reveals the specific subtype (naturel, antique, or mythologique) and shares a GIF related to the subtype.
+1. **/depart**: Starts a new adventure for the user, granting them random roles (beyond their control) like "boat" or "money."
+2. **/haki**: Assigns the user random haki roles ("haki de l'observation" or "haki de l'armement").
+3. **/sabre**: Gives the user a "sabre" role. The user might receive it or not randomly.
+4. **/fruit**: Grants the user a "fruit" role. The user may or may not receive it randomly.
+5. **/typefruit**: Reveals the type of the user's "fruit" role among "logia," "paramecia," or "zoan." The bot also shares a GIF based on the type.
+6. **/zoan**: If the user has a "zoan" type "fruit," this command reveals the specific subtype (naturel, antique, or mythologique) and shares a GIF related to the subtype.
 
 ## Miscellaneous
-The bot assigns roles based on random boolean choices to create the illusion of randomness in the user's journey.
-The bot also uses GIFs to add a fun and interactive element to the game-like experience.
+- The bot assigns roles based on random boolean choices to create the illusion of randomness in the user's journey.
+- The bot also uses GIFs to add a fun and interactive element to the game-like experience.
 
 ## Disclaimer
 
